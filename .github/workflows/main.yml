@@ -40,5 +40,6 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          repo: LwoSnow/LwoSnow
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
