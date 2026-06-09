@@ -18,6 +18,5 @@ A Chinese high school student interested in computer science, electronic music, 
 
 ## Stats
 ![](https://metrics.lecoq.io/LwoSnow?template=classic&config.timezone=Asia%2FShanghai)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/LwoSnow/LwoSnow/output/github-contribution-grid-snake.svg)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LwoSnow&theme=github)
+![github contribution grid snake animation](https://raw.githubusercontent.com/LwoSnow/LwoSnow/output/github-contribution-grid-snake.svg)
