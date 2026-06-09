@@ -11,5 +11,3 @@ A Chinese high school student interested in computer science, electronic music, 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/LwoSnow/LwoSnow/output/github-contribution-grid-snake.svg)
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=LwoSnow&theme=github)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=LwoSong)
