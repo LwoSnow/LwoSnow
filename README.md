@@ -57,7 +57,6 @@
 <a href="https://space.bilibili.com/576510918"><img src="https://img.shields.io/badge/Bilibili-My%20Profile-00A1D6?logo=bilibili&logoColor=white" alt="Bilibili"/></a>
 <a href="https://music.163.com/#/user/home?id=4956818521"><img src="https://img.shields.io/badge/NetEase%20Cloud%20Music-My%20Profile-red?logo=neteasecloudmusic&logoColor=white" alt="NetEase Cloud Music"/></a>
 <a href="https://steamcommunity.com/id/TLBtianlang/"><img src="https://img.shields.io/badge/Steam-My%20Profile-1B2838?logo=steam&logoColor=white" alt="Steam"/></a>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=LwoSnow.LwoSnow" alt="Visitors"/>
 </p>
 
 ---
