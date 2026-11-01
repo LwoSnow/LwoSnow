@@ -62,6 +62,7 @@
 
 ---
 
+![ReadNums](https://count.getloli.com/@Lwoprofilereadnums?theme=moebooru)
 <p align="center">
 <i>Small warmth in everyday life > grand narratives.</i><br/>
 <b>Never give up. You deserve a better future.</b> ✨
