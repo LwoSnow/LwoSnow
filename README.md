@@ -23,6 +23,7 @@
 
 <p>
 <a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
+<a href="https://code.visualstudio.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="PyCharm"/></a>
 <a href="https://www.jetbrains.com/pycharm/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40" alt="PyCharm"/></a>
 <a href="https://www.image-line.com/"><img src="https://raw.githubusercontent.com/LwoSnow/LwoSnow/2fb30b9e40a8b2cebf23291e7538538ccef4f602/icons/fl-studio.svg" width="40" height="40" alt="FL Studio"/></a>
 </p>
